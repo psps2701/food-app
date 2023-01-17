@@ -1,0 +1,41 @@
+import 'package:flutter/cupertino.dart';
+
+const orangeColor = Color.fromRGBO(252, 128, 25, 1);
+const shadowOrangeColor = Color.fromRGBO(252, 128, 25, 0.3);
+const blackColor = Color.fromRGBO(48, 56, 79, 1);
+const transparentWhiteColor = Color.fromRGBO(255, 255, 255, 0.5);
+const whiteColorWithExtraTranspernt = Color.fromRGBO(255, 255, 255, 0.21);
+const loginPageLabelColor = Color.fromRGBO(151, 150, 161, 1);
+const textFieldBorderColor = Color.fromRGBO(238, 238, 238, 1);
+const hintTextColor = Color.fromRGBO(196, 196, 196, 1);
+const loginScreenLineColor = Color.fromRGBO(179, 179, 179, 0.5);
+const greayColor = Color.fromRGBO(166,166,166, 0.1);
+const greyColor = Color.fromRGBO(166,166,166, 1);
+const iconColor = Color.fromRGBO(118, 127, 157, 1);
+const borderColor = Color.fromRGBO(238, 238, 238, 1);
+const textColor = Color.fromRGBO(133, 137, 146, 1);
+const cartDescriptionTextColor = Color.fromRGBO(140, 138, 157, 1);
+const reviewTextColor = Color.fromRGBO(127, 125, 146, 1);
+const gradientColor = Color.fromRGBO(140, 141, 151, 1);
+const deliveryTimeColors = Color.fromRGBO(91, 91, 94, 1);
+const dartThemeDeliveryTimeColors = Color.fromRGBO(173, 173, 184, 1);
+const bottomNavigationItemColors = Color.fromRGBO(221, 209, 216, 1);
+const yellowColor = Color.fromRGBO(255, 197, 41, 1);
+const tabBorderColor = Color.fromRGBO(242, 234, 234, 1);
+const greenColor = Color.fromRGBO(78, 228, 118, 1);
+const orderDetailTextColor = Color.fromRGBO(39, 45, 47, 1);
+const starColor = Color.fromRGBO(91, 91, 94, 1);
+const rangeBarColor = Color.fromRGBO(233, 225, 223, 1);
+const paymentMethodAddButtonBorderColor = Color.fromRGBO(233, 232, 235, 1);
+const scanCardTextColor = Color.fromRGBO(131, 134, 166, 1);
+const searchTextColor = Color.fromRGBO(118, 127, 157, 0.5);
+const darkThemeBackgroundColor = Color.fromRGBO(45, 45, 58, 1);
+const fontColor = Color.fromRGBO(0, 0, 0, 1);
+const darkThemeFontColor = Color.fromRGBO(255, 255, 255, 1);
+const darkThemeContainerColor = Color.fromRGBO(57, 57, 72, 1);
+const darkThemeBottomNavigationBarColor = Color.fromRGBO(71, 71, 85, 1);
+const msgTextColor = Color.fromRGBO(173, 181, 189, 1);
+const passwordObsecureColor = Color.fromRGBO(208, 210, 209, 1);
+const darkThemeLabelColor = Color.fromRGBO(173, 173, 183, 1);
+
+
